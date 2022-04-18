@@ -1,3 +1,8 @@
 lockfileVersion: 5.3
+specifiers:
+  '@floating-ui/react-dom': 0.6.1
 dependencies:
-  '@floating-ui/react-dom': 0.6.2_17da3c48954ec03de9c1c37ece0f2b26
+  '@floating-ui/react-dom': 0.6.1_17da3c48954ec03de9c1c37ece0f2b26
+packages:
+  /@floating-ui/react-dom/0.6.1_17da3c48954ec03de9c1c37ece0f2b26:
+    resolution: {integrity: sha512-XQbdgj1uWAViEua9PkfzgqOWjYP3dZy21pYpUYB7i5WOf1ZBAqTgCkyipjpJdxP8qGftjnhrTROLGs+DNGYnJg==}
