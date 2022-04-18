@@ -1,0 +1,15 @@
+{
+  "packageRules": [
+    {
+      "updateTypes": [
+        "major"
+      ],
+      "labels": [
+        "UPDATE-MAJOR"
+      ]
+    }
+  ],
+  "ignoreDeps": [
+    "next"
+  ]
+}
